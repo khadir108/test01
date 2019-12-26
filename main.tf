@@ -1,5 +1,5 @@
 provider "google" {
-  project = "silent-thunder-256105"
+  project = "hip-plexus-238517"
   region  = "europe-west2"
   zone    = "europe-west2-a"
 }
